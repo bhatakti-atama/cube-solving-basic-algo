@@ -14,3 +14,4 @@ to link this library to your code use the these steps: watch from 1:41 https://w
 ## basic overview of functioning of library
 we see every step in form of rotation of one of six faces in either clockwise or anti-clockwise direction relative to the face and we have defined the functions for same 
 
+
